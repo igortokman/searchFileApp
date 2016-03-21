@@ -27,23 +27,8 @@
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
-    <style>
-
-        .panel{
-            margin: 10px auto;
-            width: 550px;
-        }
-
-        table, .table {
-            width: 80%;
-            margin: 20px auto
-        }
-
-        #back_btn{
-            margin: 0em 9em 2em;
-        }
-
-    </style>
+    <script src="../js/common.js"></script>
+    <link rel="stylesheet" href="../style/main.css">
 
 </head>
 <body>
